@@ -1,0 +1,578 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"Flxco",
+				"FlxColor	flixel.util"
+			],
+			[
+				"can",
+				"canClear	var"
+			],
+			[
+				"int",
+				"intRanged"
+			],
+			[
+				"name",
+				"namex	Int"
+			],
+			[
+				"tempA",
+				"tempA	var"
+			],
+			[
+				"Math",
+				"Math	class"
+			],
+			[
+				"Fl",
+				"FlxG"
+			],
+			[
+				"jus",
+				"justReleased	Bool"
+			],
+			[
+				"ball",
+				"Ball	class"
+			],
+			[
+				"array",
+				"array_all	var"
+			],
+			[
+				"ju",
+				"justPressed	Bool"
+			],
+			[
+				"sw",
+				"FlxSwipe	flixel.input"
+			],
+			[
+				"temp",
+				"tempBall	var"
+			],
+			[
+				"n",
+				"namex"
+			],
+			[
+				"btn",
+				"btn_oneCheck	var"
+			],
+			[
+				"bu",
+				"FlxButton	flixel.ui"
+			],
+			[
+				"flxve",
+				"FlxVelocity	flixel.util"
+			],
+			[
+				"all",
+				"array_all	var"
+			],
+			[
+				"in",
+				"inflColCount"
+			],
+			[
+				"was",
+				"wasNull	Bool"
+			],
+			[
+				"check",
+				"checkBall	var"
+			],
+			[
+				"al",
+				"alpha	Float"
+			],
+			[
+				"to",
+				"toClear	var"
+			],
+			[
+				"button",
+				"GraphicButton	flixel.ui.FlxTypedButton"
+			],
+			[
+				"h",
+				"frameHeight	Int"
+			],
+			[
+				"nextbal",
+				"nextBall	var"
+			],
+			[
+				"nextnext",
+				"nextnextBall	var"
+			],
+			[
+				"next",
+				"nextBall	var"
+			],
+			[
+				"re",
+				"remove( x : Ball )	Bool"
+			],
+			[
+				"prev",
+				"prevBall	var"
+			],
+			[
+				"dy",
+				"Dictionary	flash.utils"
+			],
+			[
+				"arra",
+				"Array<T>	class"
+			],
+			[
+				"arr",
+				"FlxArrayUtil	flixel.util"
+			],
+			[
+				"for",
+				"forEachAlive(...)	Unknown<1>"
+			],
+			[
+				"this",
+				"thisBallType	var"
+			],
+			[
+				"flxgrou",
+				"FlxGroup	flixel.group"
+			],
+			[
+				"sta",
+				"state"
+			],
+			[
+				"state",
+				"state"
+			],
+			[
+				"ass",
+				"FlxAssets	flixel.system"
+			],
+			[
+				"flxevent",
+				"FlxButtonEvent	flixel.ui.FlxTypedButton"
+			],
+			[
+				"flxtype",
+				"FlxTypedButton	flixel.ui"
+			],
+			[
+				"flxty",
+				"FlxTypedButton	flixel.ui"
+			],
+			[
+				"restart",
+				"Sprite_Restart	var"
+			],
+			[
+				"flxbu",
+				"FlxButton	flixel.ui"
+			],
+			[
+				"score",
+				"var_score	var"
+			],
+			[
+				"flx",
+				"FlxSprite	flixel"
+			],
+			[
+				"Bool",
+				"Bool_overlap"
+			],
+			[
+				"sprite_",
+				"Sprite_BtmBlock"
+			],
+			[
+				"came",
+				"FlxCamera"
+			],
+			[
+				"sprite",
+				"Sprite_PlayerBall"
+			],
+			[
+				"sprite_block",
+				"Sprite_BottomBlock"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "project.xml",
+			"settings":
+			{
+				"buffer_size": 3114,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "Packages/haxe-sublime-bundle-master/Support/Hxml.sublime-build",
+	"command_palette":
+	{
+		"height": 67.0,
+		"selected_items":
+		[
+			[
+				"install",
+				"Haxelib: List Installed"
+			],
+			[
+				"build",
+				"Haxe: Choose Build Target"
+			]
+		],
+		"width": 449.0
+	},
+	"console":
+	{
+		"height": 117.0,
+		"history":
+		[
+			"cd",
+			"ls",
+			"import urllib.request,os,hashlib; h = '7183a2d3e96f11eeadd761d777e62404' + 'e330c659d4bb41d3bdf022e94cab3cd0'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://sublime.wbond.net/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source"
+	],
+	"file_history":
+	[
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source/PlayState.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/Ext/SetBrightness/dependencies/android/src/org/haxe/extension/SetBrightness.java",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/Ext/SetBrightness/SetBrightness.hx",
+		"/Users/meishijie/Documents/Node/n1.js",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/export/android/bin/build.xml",
+		"/Users/meishijie/.bash_profile",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/export/android/bin/AndroidManifest.xml",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/export/android/bin/project.properties",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/export/android/bin/build.xml",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/export/android/bin/AndroidManifest.xml",
+		"/Users/meishijie/Documents/game/Extention/SetBrightness/SetBrightness.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/PlayState.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source/Ball.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source/PlayState副本.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source/CheckBalls.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/Butt.command",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/cd :Users:meishijie:Documents:game:Flixelhaxe:Butt.command",
+		"/Users/meishijie/Documents/HaxeStudio-osx/haxe-studio-update.command",
+		"/Users/meishijie/Documents/untitled",
+		"/Users/meishijie/Downloads/HaxeStudio-osx/haxe-studio-update.command",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source/MenuState.hx",
+		"/Users/meishijie/Documents/GIT/openfl-samples/AddingAnimation/Source/Main.hx",
+		"/Users/meishijie/Documents/GIT/openfl-samples/SimpleSWFLayout/Source/Main.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/source/Main.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/project.xml",
+		"/Users/meishijie/Documents/game/Flixelhaxe/ButtonClear/FlxCamera.hxproj",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/PlayerBall.hx",
+		"/Users/meishijie/Desktop/Lime.sh",
+		"/Users/meishijie/Downloads/src/Snowman.hx",
+		"/Users/meishijie/Downloads/src/Game.hx",
+		"/Users/meishijie/Downloads/src/Protocol.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/Project.xml",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/BlockOne.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/Sprite_getScore.hx",
+		"/Users/meishijie/Downloads/12306.txt",
+		"/Users/meishijie/Documents/CocosProjects/Quick1/mygame/res/BattleScene/jones.csb",
+		"/Users/meishijie/Documents/CocosProjects/Quick1/mygame/res/BattleScene/BattleScene.csb",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/bbtest.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/Reg.hx",
+		"/Users/meishijie/Library/Application Support/Sublime Text 3/Packages/Default/Preferences.sublime-settings",
+		"/Users/meishijie/Library/Application Support/Sublime Text 3/Packages/User/Preferences.sublime-settings",
+		"/Users/meishijie/Documents/game/Flixelhaxe/shootem/source/Main.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/GameTest/Project Jumper/Project.xml",
+		"/Users/meishijie/Documents/game/Flixelhaxe/GameTest/Project Jumper/source/Player.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/GameTest/Flappybalt/source/Player.hx",
+		"/Users/meishijie/Documents/game/Flixelhaxe/GameTest/Flappybalt/build.hxml.xml",
+		"/Users/meishijie/Documents/game/Flixelhaxe/GameTest/Flappybalt/project.xml",
+		"/Users/meishijie/Documents/UnityGames/myGame/myGame/Assets/Example Games/Hat Trick - The Catch Game/Scripts/HT_StartGame.cs",
+		"/Users/meishijie/Documents/CocosProjects/CocosProject/cocosstudio/MainScene.csd",
+		"/Users/meishijie/Documents/Together/Folders/精工表/分类.txt",
+		"/Users/meishijie/Documents/Together/Folders/精工表/分类代码.txt",
+		"/Users/meishijie/Documents/Together/Folders/精工表/双11-2014/分类代码.txt",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/Project/bin/src/DreamRun.as",
+		"/Users/meishijie/Downloads/Chipset-0 - deepnight-haxe/haxelibs/mt/Cooldown.hx",
+		"/Users/meishijie/Downloads/Chipset-0 - deepnight-haxe/obj/ld30-ConnectedWorlds(2)Library.xml",
+		"/Users/meishijie/Downloads/Chipset-0 - deepnight-haxe/src/Intro.hx",
+		"/Users/meishijie/Downloads/Chipset-0 - deepnight-haxe/src/en/Hero.hx",
+		"/Users/meishijie/Downloads/Chipset-0 - deepnight-haxe/src/en/act/Human.hx",
+		"/Users/meishijie/Downloads/GreenSock-AS3-master/src/com/greensock/layout/AutoFitArea.as",
+		"/Users/meishijie/Downloads/GreenSock-AS3-master/src/com/greensock/layout/ScaleMode.as",
+		"/Users/meishijie/Downloads/GreenSock-AS3-master/src/com/greensock/plugins/BezierPlugin.as",
+		"/Users/meishijie/Library/Application Support/Sublime Text 3/Packages/Package Control/Package Control.sublime-settings",
+		"/Users/meishijie/Downloads/GreenSock-AS3-master/src/com/greensock/motionPaths/MotionPath.as",
+		"/Users/meishijie/Downloads/GreenSock-AS3-master/src/com/greensock/motionPaths/Direction.as",
+		"/Users/meishijie/Downloads/GreenSock-AS3-master/src/com/greensock/motionPaths/LinePath2D.as",
+		"/Users/meishijie/Documents/FDT/mm/src/assetifier/globals/AssetConstants.as",
+		"/Users/meishijie/Documents/MyApp/FlexSdk15/airsdk.xml",
+		"/Users/meishijie/Documents/Together/Folders/精工表/京东/618大促/京东页面代码.txt",
+		"/Users/meishijie/Documents/game/ShootGame/shmup/classes/DialogBox.as",
+		"/Users/meishijie/Documents/Together/Folders/成人用品旗舰店/开学季/Untitled-1.html",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/assets/skeleton.skel",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/assets/theman.json",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/gbl/goblins.json",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/assets/pack.json",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/assets/DreamRun.atlas",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/Project/resources/tp.json",
+		"/Users/meishijie/Documents/game/GameBuilderExport/DreamRun/gb/goblins.skel",
+		"/Users/meishijie/Documents/MyApp/LOVE/Test/main.lua",
+		"/Users/meishijie/Documents/Together/Folders/精工表/页面修改/首页海报代码",
+		"/Users/meishijie/Documents/Together/Folders/精工表/品牌街/品牌街13/Untitled-1.html",
+		"/Users/meishijie/Downloads/sdk/Readme.txt",
+		"/Users/meishijie/Documents/Together/Folders/精工表/七夕723/京东七夕前页面代码.txt",
+		"/Users/meishijie/Documents/game/FlashGame/out/production/FlashGame/Main-ios-descriptor.xml",
+		"/Users/meishijie/Documents/game/FlashGame/out/production/FlashGame/Main-android-descriptor.xml",
+		"/Users/meishijie/Documents/Together/Folders/精工表/5.8电影节同款/Untitled-1.html",
+		"/Users/meishijie/Documents/game/flashExport/box.json",
+		"/Users/meishijie/Documents/Adobe Flash Builder 4.7/mytest/src/mytest.as",
+		"/Users/meishijie/Documents/Adobe Flash Builder 4.7/mytest/src/stateLevel/MainState.as",
+		"/Users/meishijie/Documents/Adobe Flash Builder 4.6/3366game1/src/starlingdemo/StarlingDemoGameState.as",
+		"/Users/meishijie/Documents/Adobe Flash Builder 4.6/3366game1/src/citrusexamples.as",
+		"/Applications/COLT/projects/as/my1/src/Game.as",
+		"/Users/meishijie/Documents/Adobe Flash Builder 4.7/starlingSwf/box2dstarling/Level1.as",
+		"/Users/meishijie/Documents/GIT/starlingSwf/Mystarling/src/lzm/starling/STLStarup.as",
+		"/Applications/MAMP/htdocs/bin-debug/src/GameApp.js",
+		"/Applications/COLT/projects/js/balls/index.js",
+		"/Applications/COLT/projects/js/balls/index.html",
+		"/Applications/MAMP/htdocs/src/GameApp.ts",
+		"/Applications/MAMP/htdocs/src/LoadingUI.ts",
+		"/Applications/MAMP/htdocs/egret.colt",
+		"/Users/meishijie/Documents/MyApp/AirGame/test1/intellijIdea/src/Main.as",
+		"/Applications/COLT/projects/as/CitrusPlatformer/src/GameState.as",
+		"/Applications/COLT/projects/as/my1/src/starling/extensions/ColorArgb.as",
+		"/Applications/COLT/projects/as/Tree/src/com/codeorchestra/Tree.as",
+		"/Applications/COLT/projects/as/Tree/src/Main.as",
+		"/Applications/COLT/projects/as/Tree/Main.as",
+		"/Applications/COLT/projects/as/my1/src/Main.as",
+		"/Applications/COLT/projects/as/my1/src/GameEngine.as",
+		"/Applications/COLT/projects/as/Paint/src/Brush.as",
+		"/Applications/COLT/projects/as/Paint/src/Main.as",
+		"/Applications/COLT/projects/as/my1/src/com/chaos/media/DisplayVideo.as",
+		"/Applications/COLT/projects/as/my1/src/com/chaos/ui/StageAlignmentManager.as",
+		"/Applications/COLT/projects/as/AssetsDemo/src/AssetsDemo.as",
+		"/Applications/COLT/projects/as/CitrusPlatformer/CitrusPlatformer-app.xml",
+		"/Applications/COLT/projects/as/CitrusPlatformer/Mystarling-app.xml",
+		"/Users/meishijie/Documents/GIT/chaos_hx(ui框架)/src/main/flash/com/chaos/drawing/icon/ArrowDownIcon.as",
+		"/Users/meishijie/Documents/GIT/rainbowMapEditor/lib/starling/animation/DelayedCall.as",
+		"/Users/meishijie/Documents/MyApp/HaxeFlixelGame/Breakout/export/flash/haxe/debug.hxml",
+		"/Users/meishijie/Documents/MyApp/HaxeFlixelGame/Breakout/export/flash/haxe/release.hxml",
+		"/Users/meishijie/Documents/MyApp/HaxeFlixelGame/Breakout/Project.xml",
+		"/Applications/MonkeyX77a/modules_ext/flixel/CHANGELOG.md",
+		"/Users/meishijie/Documents/debug.keystore",
+		"/Users/meishijie/Documents/MyApp/HaxeFlixelGame/Breakout/export/PlayState.hx",
+		"/Users/meishijie/Documents/MyApp/HaxeFlixelGame/Breakout/export/Main.hx",
+		"/Users/meishijie/Documents/Adobe Flash Builder 4.7/nuggetaWeb/bin-debug/nuggetaWeb.html",
+		"/Users/meishijie/Documents/Together/Folders/精工表/n/h.txt",
+		"/Users/meishijie/Documents/Starling/testFla/test/test.xml",
+		"/Users/meishijie/Documents/game/GameBuilderExport/FlappyBirdTemplate/bin/src/com/gbs/game/BaseGame.as",
+		"/Users/meishijie/Documents/game/GameBuilderExport/FlappyBirdTemplate/bin/src/Resources.as"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 93.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"tempPos2",
+			"tempBall",
+			"beClear",
+			"canClear",
+			"touch",
+			"4",
+			"				\n",
+			"trace",
+			"tween",
+			"toClear",
+			"checkInCanClear",
+			"Sprite_HowToPlay",
+			"alpha",
+			"Sprite_HowToPlay",
+			"trace",
+			"Sprite_BtmBlock",
+			"Asset",
+			"txt_score",
+			"Sprite_BtmBlock",
+			"顾文杰",
+			"meishijie",
+			"719082908",
+			"skeleton",
+			"launcher",
+			"http://",
+			"test",
+			"dead",
+			"MenuState",
+			"11",
+			"DocumentClass",
+			"preloader",
+			"defaultApp",
+			"preloader"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "project.xml",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3114,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/XML/XML.tmLanguage",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 58.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 31.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 25.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"project": "ButtonClear.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 204.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
